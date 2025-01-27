@@ -19,7 +19,7 @@
 ---
 
 ## Demo
-This project analyzes restaurant reviews to determine whether the sentiment is positive, negative, or neutral.  
+This project analyzes customer reviews to determine if the food in a restaurant was liked or disliked based on textual feedback. 
 **Link to Demo:** [Steam Review Sentiment Analysis(#) ]
 
 ## Restaurant Reviews (NLP model) 
@@ -30,31 +30,7 @@ This project analyzes restaurant reviews to determine whether the sentiment is p
 ---
 
 ## Overview
-
-Restaurant Reviews (NLP Model)
-Table of Contents
-Demo
-Overview
-Motivation
-Technical Aspect
-Installation
-Run
-Deployment on Render
-Directory Tree
-To Do
-Bug / Feature Request
-Technologies Used
-Team
-License
-Credits
-Demo
-This project analyzes restaurant reviews to determine whether the sentiment is positive, negative, or neutral.
-Link to Demo: Restaurant Review Sentiment Analysis
-
-
-
-Overview
-The Restaurant Reviews (NLP Model) project leverages natural language processing (NLP) and machine learning techniques to analyze restaurant reviews and classify their sentiment. This model aims to help businesses understand customer feedback and improve services based on sentiment analysis.
+The Restaurant Reviews Sentiment Analysis project leverages Natural Language Processing (NLP) techniques to analyze customer reviews and classify them as either positive (liked) or negative (disliked). The goal is to provide restaurant owners, managers, and businesses with insights into customer satisfaction based on text feedback.
 
 Key features:
 
